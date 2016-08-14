@@ -1,4 +1,4 @@
-# Namesgenerator
+# Namesgenerator [![Build Status](https://travis-ci.org/ohbarye/namesgenerator.svg?branch=master)](https://travis-ci.org/ohbarye/namesgenerator) [![Gem Version](https://badge.fury.io/rb/namesgenerator.svg)](https://badge.fury.io/rb/namesgenerator)
 
 Port of Docker 0.7.x names generator written in Ruby for fun!
 
